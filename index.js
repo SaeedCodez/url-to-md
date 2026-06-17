@@ -1,5 +1,4 @@
-import { HTMLRewriter } from "https://ghuc.cc/worker-tools/html-rewriter/index.ts";
-
+import { HTMLRewriter } from "https://ghuc.cc/worker-tools/html-rewriter/base64.ts";
 
 // ============================================================
 //  MarkdownGrab — Cloudflare Worker
