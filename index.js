@@ -1,5 +1,4 @@
-import { HTMLRewriter } from "https://ghuc.cc/worker-tools/html-rewriter/base64.ts";
-
+import { HTMLRewriter } from "https://deno.land/x/html_rewriter@v0.1.0-pre.19/base64.ts";
 // ============================================================
 //  MarkdownGrab — Cloudflare Worker
 //  Fetches any web page and returns its meaningful content as
