@@ -1,3 +1,6 @@
+import { HTMLRewriter } from "https://ghuc.cc/worker-tools/html-rewriter/index.ts";
+
+
 // ============================================================
 //  MarkdownGrab — Cloudflare Worker
 //  Fetches any web page and returns its meaningful content as
